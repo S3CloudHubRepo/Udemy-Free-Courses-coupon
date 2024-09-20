@@ -1,4 +1,5 @@
-![Udemy](https://www.udemy.com/staticx/udemy/images/v6/logo-udemy.svg)
+![Udemy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Udemy_logo.svg/1200px-Udemy_logo.svg.png)
+
 
 
 # Unlock Your Potential with Hands-On Courses
