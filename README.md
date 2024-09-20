@@ -64,4 +64,12 @@ Learn the essentials of writing effective Linux shell scripts in this engaging m
 **Enroll Now in English:** [Introduction to Linux Shell Scripting](https://www.udemy.com/course/introduction-to-linux-shell-scripting/?referralCode=ED532BE044DB782C4185)  
 **Enroll Now in Hindi:** [Introduction to Linux Shell Scripting (Hindi)](https://www.udemy.com/course/introduction-to-linux-shell-scripting-hindi/?referralCode=ED532BE044DB782C4185)
 
-### [Learn Terraform: Infrastructure Automation (2024)](https://www.udemy.com/course/learn-terraform-infrastructure-automation
+## Learn Terraform: Infrastructure Automation (2024)
+Master Terraform and automate your infrastructure effectively with this comprehensive course.  
+**Enroll Now in Hindi:** [Terraform Infrastructure Automation (Hindi)](https://www.udemy.com/course/learn-terraform-infrastructure-automation-hindi/?referralCode=ED532BE044DB782C4185)  
+**Enroll Now in English:** [Infrastructure Automation with Terraform](https://www.udemy.com/course/learn-terraform-infrastructure-automation/?referralCode=ED532BE044DB782C4185)
+
+## AWS Certified Solutions Architect - Associate Practice Test
+Prepare for your AWS certification exam with our comprehensive practice tests designed to simulate the real exam experience.  
+**Enroll Now:** [AWS Certified Solutions Architect Practice Test](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-test/?referralCode=ED532BE044DB782C4185)
+
