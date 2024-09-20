@@ -1,3 +1,6 @@
+![Udemy](https://www.udemy.com/staticx/udemy/images/v6/logo-udemy.svg)
+
+
 # Unlock Your Potential with Hands-On Courses
 
 Unlock Your Potential with Hands-On Courses in **AWS**, **Python**, **Docker**, **GitLab**, **Jenkins**, **Ansible**, and **Linux Shell Scripting**!  
