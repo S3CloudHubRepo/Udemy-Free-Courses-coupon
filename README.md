@@ -14,7 +14,7 @@ We're here to assist you!
 
 ## Courses
 
-### [Azure DevOps Fundamentals - Zero to Hero](https://www.udemy.com/course/azure-devops-fundamentals-zero-to-hero/?referralCode=ED532BE044DB782C4185)
+### [Azure DevOps Fundamentals - Zero to Hero]()
 Master the fundamentals of Azure DevOps and kickstart your career in DevOps with practical, hands-on projects. This course is designed for beginners, covering everything from setting up CI/CD pipelines to automating deployments with Azure.  
 **Claim Your Free Course Now:** [Azure DevOps Fundamentals - Zero to Hero (English)](https://www.udemy.com/course/azure-devops-fundamentals-zero-to-hero/?referralCode=ED532BE044DB782C4185)
 
