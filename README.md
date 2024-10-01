@@ -17,7 +17,8 @@ We're here to assist you!
 ## DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery
 Master the essentials of DevOps, from setting up CI/CD pipelines to automating workflows, and leverage cloud platforms for seamless deployment. This bootcamp equips you with hands-on skills to accelerate your career in DevOps.
 **Claim Your Free Course Now:**
-
+**Enroll Now in English:** [Ethical Hacking - Beginner to Advanced (English)](https://www.udemy.com/course/learn-ethical-hacking-beginner-to-advanced/?referralCode=C9EDC2AA429CDF4C1728)  
+**Enroll Now in Hindi:** [Ethical Hacking - Beginner to Advanced (Hindi)](https://www.udemy.com/course/learn-ethical-hacking-beginner-to-advanced-in-hindi/?referralCode=CFC049B33675231E2D70)
 
 ### Azure DevOps Fundamentals - Zero to Hero
 Master the fundamentals of Azure DevOps and kickstart your career in DevOps with practical, hands-on projects. This course is designed for beginners, covering everything from setting up CI/CD pipelines to automating deployments with Azure.  
