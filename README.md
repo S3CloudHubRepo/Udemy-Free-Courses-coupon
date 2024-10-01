@@ -14,7 +14,8 @@ We're here to assist you!
 
 ## Courses
 
-## DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery
+### DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery
+
 Master the essentials of DevOps, from setting up CI/CD pipelines to automating workflows, and leverage cloud platforms for seamless deployment. This bootcamp equips you with hands-on skills to accelerate your career in DevOps.
 **Claim Your Free Course Now:**
 **Enroll Now in English:** [Ethical Hacking - Beginner to Advanced (English)](https://www.udemy.com/course/learn-ethical-hacking-beginner-to-advanced/?referralCode=C9EDC2AA429CDF4C1728)  
