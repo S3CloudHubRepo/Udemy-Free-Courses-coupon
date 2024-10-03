@@ -65,8 +65,8 @@ Learn to build sophisticated CI/CD pipelines using Jenkins, perfect for both new
 
 ### AWS Certified Solution Architect Associate SAA-C03 (2024)
 Prepare thoroughly for the AWS Certified Solutions Architect Associate exam and gain essential AWS skills.  
-**Enroll Now in Hindi:** [AWS Certified Solution Architect Associate (Hindi)](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019/?couponCode=7ACCAE195A18C817AD1B)  
-**Claim Your Free Course Now:** [AWS Certified Solution Architect Associate (English)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-2024/?couponCode=3F149FAFE16BC7EEF2AA)
+**Enroll Now in Hindi:** [AWS Certified Solution Architect Associate (Hindi)](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019-in-hindi/?couponCode=02B9F41C9342CDE7BF6E)  
+**Claim Your Free Course Now:** [AWS Certified Solution Architect Associate (English)](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019/?couponCode=23CE13134B24A05DB997)
 
 ### Introduction to Linux Shell Scripting
 Learn the essentials of writing effective Linux shell scripts in this engaging mini-course.  
