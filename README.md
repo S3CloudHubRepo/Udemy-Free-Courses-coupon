@@ -17,6 +17,7 @@ We're here to assist you!
 ### DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery
 
 Master the essentials of DevOps, from setting up CI/CD pipelines to automating workflows, and leverage cloud platforms for seamless deployment. This bootcamp equips you with hands-on skills to accelerate your career in DevOps.
+
 **Enroll Now in English:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (English)](https://www.udemy.com/course/devops-boot-camp-mastering-cicd-automation-and-cloud-tec/?couponCode=E7162C9C961386162B81)  
 **Enroll Now in Hindi:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (Hindi)](https://www.udemy.com/course/devops-bootcamp-cicd-automation-and-cloud-masteryhindi/?couponCode=F7C37B5FC5D4D3DA8CAE)
 
