@@ -31,8 +31,8 @@ Learn the essentials of ethical hacking in this comprehensive course. Whether yo
 
 ### AWS Certified SysOps Administrator Associate SOA-C02 (2024)
 The demand for skilled AWS professionals is skyrocketing as companies transition to the cloud. Secure your future with the AWS Certified SysOps Administrator Associate certification and earn over $150,000 annually!  
-**Claim Your Free Course Now:** [AWS Certified SysOps Administrator Associate (2024)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-2024/?couponCode=3F149FAFE16BC7EEF2AA)  
-**Enroll Now in Hindi:** [AWS Certified SysOps Administrator Associate (Hindi)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-hindi/?couponCode=12352732D42F6CA5EC40)
+**Claim Your Free Course Now:** [AWS Certified SysOps Administrator Associate (2024)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-2024/?couponCode=232FA676953F67B28768)  
+**Enroll Now in Hindi:** [AWS Certified SysOps Administrator Associate (Hindi)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-hindi/?couponCode=CBBE6768F7A7D17EBE63)
 
 ### Complete Python Bootcamp From Zero to Hero
 Become a proficient Python programmer with one of the most comprehensive courses available! Whether you're starting from scratch or looking to deepen your knowledge, this course is for you.  
