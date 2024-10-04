@@ -19,7 +19,7 @@ We're here to assist you!
 Master the essentials of DevOps, from setting up CI/CD pipelines to automating workflows, and leverage cloud platforms for seamless deployment. This bootcamp equips you with hands-on skills to accelerate your career in DevOps.
 
 **Enroll Now in English:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (English)](https://www.udemy.com/course/devops-boot-camp-mastering-cicd-automation-and-cloud-tec/?couponCode=E7162C9C961386162B81)  
-**Enroll Now in Hindi:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (Hindi)](https://www.udemy.com/course/devops-bootcamp-cicd-automation-and-cloud-masteryhindi/?couponCode=F7C37B5FC5D4D3DA8CAE)
+**Enroll Now in Hindi:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (Hindi)](https://www.udemy.com/course/devops-bootcamp-cicd-automation-and-cloud-masteryhindi/?couponCode=E6D61081976D7DC31E97)
 
 ### Azure DevOps Fundamentals - Zero to Hero
 Master the fundamentals of Azure DevOps and kickstart your career in DevOps with practical, hands-on projects. This course is designed for beginners, covering everything from setting up CI/CD pipelines to automating deployments with Azure.  
@@ -32,8 +32,8 @@ Learn the essentials of ethical hacking in this comprehensive course. Whether yo
 
 ### AWS Certified SysOps Administrator Associate SOA-C02 (2024)
 The demand for skilled AWS professionals is skyrocketing as companies transition to the cloud. Secure your future with the AWS Certified SysOps Administrator Associate certification and earn over $150,000 annually!  
-**Claim Your Free Course Now:** [AWS Certified SysOps Administrator Associate (2024)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-2024/?couponCode=232FA676953F67B28768)  
-**Enroll Now in Hindi:** [AWS Certified SysOps Administrator Associate (Hindi)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-hindi/?couponCode=CBBE6768F7A7D17EBE63)
+**Claim Your Free Course Now:** [AWS Certified SysOps Administrator Associate (2024)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-2024/?couponCode=AA42BC234DBC5A40940A)  
+**Enroll Now in Hindi:** [AWS Certified SysOps Administrator Associate (Hindi)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-hindi/?couponCode=53B42D33AE23CFB4AB20)
 
 ### Complete Python Bootcamp From Zero to Hero
 Become a proficient Python programmer with one of the most comprehensive courses available! Whether you're starting from scratch or looking to deepen your knowledge, this course is for you.  
@@ -47,7 +47,7 @@ Master AWS Amazon S3, a foundational skill for any AWS professional. This boot c
 ### GitLab CI: Pipelines, CI/CD, and DevOps for Beginners
 Learn to leverage GitLab CI for your projects and kickstart your journey into CI/CD and DevOps.  
 **Enroll Now in Hindi:** [GitLab CI for Beginners (Hindi)](https://www.udemy.com/course/gitlab-ci-pipelines-cicd-and-devops-for-beginners-hindi/?referralCode=CBD14D645048267F7A8E)  
-**Claim Your Free Course Now:** [GitLab CI for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-cicd-and-devops-for-beginners/?couponCode=F373BABE20E6E5141322)
+**Claim Your Free Course Now:** [GitLab CI for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-cicd-and-devops-for-beginners/?couponCode=68796D0F443C8656F53C)
 
 ### Docker for the Absolute Beginner
 Get started with Docker in this easy-to-follow course designed for beginners, complete with practical exercises.  
@@ -56,13 +56,13 @@ Get started with Docker in this easy-to-follow course designed for beginners, co
 
 ### Ansible for the Absolute Beginner - DevOps
 Master Ansible with hands-on practice in this beginner-friendly course that covers all the fundamentals.  
-**Enroll Now in Hindi:** [Ansible for the Absolute Beginner (Hindi)](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops-in-hindi/?couponCode=B73B545E82A86507FC1A)  
+**Enroll Now in Hindi:** [Ansible for the Absolute Beginner (Hindi)](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops-in-hindi/?couponCode=E4ECABA6A3B205845AF4)  
 **Claim Your Free Course Now:** [Ansible for the Absolute Beginner](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops/?referralCode=46D750C7018E3772CF61)
 
 ### DevOps: CI/CD with Jenkins
 Learn to build sophisticated CI/CD pipelines using Jenkins, perfect for both newcomers and experienced developers.  
-**Enroll Now in Hindi:** [DevOps CI/CD with Jenkins (Hindi)](https://www.udemy.com/course/jenkins-in-hindi/?couponCode=2C8152DC64D6068F4756)  
-**Claim Your Free Course Now:** [DevOps CI/CD with Jenkins](https://www.udemy.com/course/devops-cicd-with-jenkins/?couponCode=3228616BF3329DAD7D9F)
+**Enroll Now in Hindi:** [DevOps CI/CD with Jenkins (Hindi)](https://www.udemy.com/course/jenkins-in-hindi/?couponCode=EE5AD4FAD5121735CF04)  
+**Claim Your Free Course Now:** [DevOps CI/CD with Jenkins](https://www.udemy.com/course/devops-cicd-with-jenkins/?couponCode=83F699B6759F9ACBE23D)
 
 ### AWS Certified Solution Architect Associate SAA-C03 (2024)
 Prepare thoroughly for the AWS Certified Solutions Architect Associate exam and gain essential AWS skills.  
