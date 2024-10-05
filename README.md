@@ -23,7 +23,7 @@ Master the essentials of DevOps, from setting up CI/CD pipelines to automating w
 
 ### Azure DevOps Fundamentals - Zero to Hero
 Master the fundamentals of Azure DevOps and kickstart your career in DevOps with practical, hands-on projects. This course is designed for beginners, covering everything from setting up CI/CD pipelines to automating deployments with Azure.  
-**Claim Your Free Course Now(English):** [Azure DevOps Fundamentals - Zero to Hero (English)](https://www.udemy.com/course/azure-devops-fundamentals-zero-to-hero/?referralCode=ED532BE044DB782C4185) 
+**Claim Your Free Course Now(English):** [Azure DevOps Fundamentals - Zero to Hero (English)](https://www.udemy.com/course/azure-devops-fundamentals-zero-to-hero/?referralCode=ED532BE044DB782C4185) .
 **Claim Your Free Course Now(Hindi):**[Azure DevOps Fundamentals - Zero to Hero (Hindi)](https://www.udemy.com/course/azure-devops-fundamentals-in-hindi/?referralCode=96236378236213F49066)
 
 ### Ethical Hacking - Beginner to Advanced
