@@ -14,6 +14,9 @@ We're here to assist you!
 
 ## Courses
 
+### HashiCorp Certified: Terraform Associate Practice Exam 2024
+**Enroll Now in English:** [HashiCorp Certified: Terraform Associate Practice Exam 2024](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=5FAEC355E3ABA688099F)  
+
 ### DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery
 
 Master the essentials of DevOps, from setting up CI/CD pipelines to automating workflows, and leverage cloud platforms for seamless deployment. This bootcamp equips you with hands-on skills to accelerate your career in DevOps.
