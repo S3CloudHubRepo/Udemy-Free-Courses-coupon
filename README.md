@@ -15,7 +15,7 @@ We're here to assist you!
 ## Courses
 
 ### HashiCorp Certified: Terraform Associate Practice Exam 2024
-**Enroll Now in English:** [HashiCorp Certified: Terraform Associate Practice Exam 2024](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=5FAEC355E3ABA688099F)  
+**Enroll Now in English:** [HashiCorp Certified: Terraform Associate Practice Exam 2024](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=858D5A476C68A6D89763)  
 
 ### DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery
 
