@@ -30,7 +30,8 @@ Master the essentials of DevOps, from setting up CI/CD pipelines to automating w
 ### Azure DevOps Fundamentals - Zero to Hero
 Master the fundamentals of Azure DevOps and kickstart your career in DevOps with practical, hands-on projects. This course is designed for beginners, covering everything from setting up CI/CD pipelines to automating deployments with Azure.
 
-**Claim Your Free Course Now(English):** [Azure DevOps Fundamentals - Zero to Hero (English)](https://www.udemy.com/course/azure-devops-fundamentals-zero-to-hero/?referralCode=ED532BE044DB782C4185)
+**Enroll Free Course Now(English):** [Azure DevOps Fundamentals - Zero to Hero (English)](https://www.udemy.com/course/azure-devops-fundamentals-zero-to-hero/?referralCode=ED532BE044DB782C4185)
+
 **Claim Your Free Course Now(Hindi):**[Azure DevOps Fundamentals - Zero to Hero (Hindi)](https://www.udemy.com/course/azure-devops-fundamentals-in-hindi/?referralCode=96236378236213F49066)
 
 ### Ethical Hacking - Beginner to Advanced
@@ -40,8 +41,8 @@ Learn the essentials of ethical hacking in this comprehensive course. Whether yo
 
 ### AWS Certified SysOps Administrator Associate SOA-C02 (2024)
 The demand for skilled AWS professionals is skyrocketing as companies transition to the cloud. Secure your future with the AWS Certified SysOps Administrator Associate certification and earn over $150,000 annually!  
-**Claim Your Free Course Now:** [AWS Certified SysOps Administrator Associate (2024)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-2024/?couponCode=AA42BC234DBC5A40940A)  
-**Enroll Now in Hindi:** [AWS Certified SysOps Administrator Associate (Hindi)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-hindi/?couponCode=53B42D33AE23CFB4AB20)
+**Claim Your Free Course Now:** [AWS Certified SysOps Administrator Associate (2024)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-2024/?couponCode=72C75BD7BD24576C90AE)  
+**Enroll Now in Hindi:** [AWS Certified SysOps Administrator Associate (Hindi)](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-hindi/?couponCode=65D3F42ECA00572A7E52)
 
 ### Complete Python Bootcamp From Zero to Hero
 Become a proficient Python programmer with one of the most comprehensive courses available! Whether you're starting from scratch or looking to deepen your knowledge, this course is for you.  
