@@ -70,8 +70,8 @@ Master Ansible with hands-on practice in this beginner-friendly course that cove
 
 ### DevOps: CI/CD with Jenkins
 Learn to build sophisticated CI/CD pipelines using Jenkins, perfect for both newcomers and experienced developers.  
-**Enroll Now in Hindi:** [DevOps CI/CD with Jenkins (Hindi)](https://www.udemy.com/course/jenkins-in-hindi/?couponCode=EE5AD4FAD5121735CF04)  
-**Claim Your Free Course Now:** [DevOps CI/CD with Jenkins](https://www.udemy.com/course/devops-cicd-with-jenkins/?couponCode=83F699B6759F9ACBE23D)
+**Enroll Now in Hindi:** [DevOps CI/CD with Jenkins (Hindi)](https://www.udemy.com/course/jenkins-in-hindi/?couponCode=E14C598531F827626A64)  
+**Claim Your Free Course Now:** [DevOps CI/CD with Jenkins](https://www.udemy.com/course/devops-cicd-with-jenkins/?couponCode=386B75F879E771792109)
 
 ### AWS Certified Solution Architect Associate SAA-C03 (2024)
 Prepare thoroughly for the AWS Certified Solutions Architect Associate exam and gain essential AWS skills.  
