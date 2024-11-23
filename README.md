@@ -61,11 +61,11 @@ Learn to leverage GitLab CI for your projects and kickstart your journey into CI
 ### Docker for the Absolute Beginner
 Get started with Docker in this easy-to-follow course designed for beginners, complete with practical exercises.  
 **Claim Your Free Course Now:** [Docker for the Absolute Beginner](https://www.udemy.com/course/docker-for-the-absolute-beginner/?referralCode=2EB0B6F75839AB4758D1)  
-**Enroll Now in Hindi:** [Docker for the Absolute Beginner (Hindi)](https://www.udemy.com/course/docker-for-the-absolute-beginner-in-hindi/?referralCode=C087A5BA1FC731998E5C)
+**Enroll Now in Hindi:** [Docker for the Absolute Beginner (Hindi)](https://www.udemy.com/course/docker-for-the-absolute-beginner-in-hindi/?couponCode=49494E94CBFC164FD4E9)
 
 ### Ansible for the Absolute Beginner - DevOps
 Master Ansible with hands-on practice in this beginner-friendly course that covers all the fundamentals.  
-**Enroll Now in Hindi:** [Ansible for the Absolute Beginner (Hindi)](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops-in-hindi/?couponCode=E4ECABA6A3B205845AF4)  
+**Enroll Now in Hindi:** [Ansible for the Absolute Beginner (Hindi)](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops-in-hindi/?couponCode=1949322A7695A5AAF2B7)  
 **Claim Your Free Course Now:** [Ansible for the Absolute Beginner](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops/?referralCode=46D750C7018E3772CF61)
 
 ### DevOps: CI/CD with Jenkins
@@ -75,22 +75,22 @@ Learn to build sophisticated CI/CD pipelines using Jenkins, perfect for both new
 
 ### AWS Certified Solution Architect Associate SAA-C03 (2024)
 Prepare thoroughly for the AWS Certified Solutions Architect Associate exam and gain essential AWS skills.  
-**Enroll Now in Hindi:** [AWS Certified Solution Architect Associate (Hindi)](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019-in-hindi/?couponCode=1A850B95D5E3B213C2F9)  
-**Claim Your Free Course Now:** [AWS Certified Solution Architect Associate (English)](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019/?couponCode=7AD99032E285F53ACF55)
+**Enroll Now in Hindi:** [AWS Certified Solution Architect Associate (Hindi)](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019-in-hindi/?couponCode=3B7DF3AAD56390184F50)  
+**Claim Your Free Course Now:** [AWS Certified Solution Architect Associate (English)](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019/?couponCode=6E3E8A41539DB1A1933B)
 
 ### Introduction to Linux Shell Scripting
 Learn the essentials of writing effective Linux shell scripts in this engaging mini-course.  
 **Claim Your Free Course Now:** [Introduction to Linux Shell Scripting](https://www.udemy.com/course/introduction-to-linux-shell-scripting/?referralCode=C4612244A8A75239C3FA)  
-**Enroll Now in Hindi:** [Introduction to Linux Shell Scripting (Hindi)](https://www.udemy.com/course/introduction-to-linux-shell-scripting-in-hindi/?couponCode=E4F56E5207925C9FE6A9)
+**Enroll Now in Hindi:** [Introduction to Linux Shell Scripting (Hindi)](https://www.udemy.com/course/introduction-to-linux-shell-scripting-in-hindi/?couponCode=1ED4A70662E48E28A34F)
 
 ### Learn Terraform: Infrastructure Automation (2024)
 Master Terraform and automate your infrastructure effectively with this comprehensive course.  
-**Enroll Now in Hindi:** [Terraform Infrastructure Automation (Hindi)](https://www.udemy.com/course/terraform-infrastructure-as-automation-in-hindi/?couponCode=138E29A0E6678AD8AD73)  
-**Claim Your Free Course Now:** [Infrastructure Automation with Terraform](https://www.udemy.com/course/infrastructure-automation-with-terraform-a-devops-tool/?couponCode=6483DD6222A6509F0E63)
+**Enroll Now in Hindi:** [Terraform Infrastructure Automation (Hindi)](https://www.udemy.com/course/terraform-infrastructure-as-automation-in-hindi/?couponCode=ED6272A559B82A582EBE)  
+**Claim Your Free Course Now:** [Infrastructure Automation with Terraform](https://www.udemy.com/course/infrastructure-automation-with-terraform-a-devops-tool/?couponCode=7B7A6D0AB0C8DE46C12E)
 
 ### AWS Certified Solutions Architect - Associate Practice Test
 Prepare for your AWS certification exam with our comprehensive practice tests designed to simulate the real exam experience.  
-**Claim Your Free Course Now:** [AWS Certified Solutions Architect Practice Test](https://www.udemy.com/course/practice-test-aws-certified-solution-architect-associate-new/?couponCode=CCEBC312DD77C6C5ABA8)
+**Claim Your Free Course Now:** [AWS Certified Solutions Architect Practice Test](https://www.udemy.com/course/practice-test-aws-certified-solution-architect-associate-new/?couponCode=1A2E3FEE4AF5DC3CC47B)
 
 ## Join Our Community
 Keep learning and growing with us! For more updates and free coupons, follow us on social media and engage with our community!
