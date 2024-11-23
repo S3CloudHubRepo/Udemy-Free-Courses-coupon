@@ -51,7 +51,7 @@ Become a proficient Python programmer with one of the most comprehensive courses
 
 ### Amazon S3 Mastery Bootcamp 2024
 Master AWS Amazon S3, a foundational skill for any AWS professional. This boot camp will set you up for success in mastering essential AWS services.  
-**Claim Your Free Course Now:** [Amazon S3 Mastery Bootcamp](https://www.udemy.com/course/aws-amazon-s3-mastery-bootcamp/?referralCode=98378B9004A477A1305B)
+**Claim Your Free Course Now:** [Amazon S3 Mastery Bootcamp](https://www.udemy.com/course/aws-amazon-s3-mastery-bootcamp/?couponCode=AA41B79384511B3D43CC)
 
 ### GitLab CI: Pipelines, CI/CD, and DevOps for Beginners
 Learn to leverage GitLab CI for your projects and kickstart your journey into CI/CD and DevOps.  
