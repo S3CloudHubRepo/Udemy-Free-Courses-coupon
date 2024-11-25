@@ -1,6 +1,6 @@
 ![Udemy Courses](https://s.udemycdn.com/meta/default-meta-image-v2.png)
 
-# Free Udemy Courses & Exclusive Coupons for 2024: Unlock Your Potential!
+# Free Udemy Courses & Exclusive Coupons for 2025: Unlock Your Potential!
 
 Unlock your potential with hands-on courses in **AWS**, **Python**, **Docker**, **GitLab**, **Jenkins**, **Ansible**, and **Linux Shell Scripting**!  
 **Discover a curated selection of free Udemy courses and exclusive discounts!**  
