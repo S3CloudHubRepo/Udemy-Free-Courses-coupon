@@ -14,6 +14,14 @@ We're here to assist you!
 
 ## Courses
 
+### Terraform Multicloud Mastery: Building Across Clouds
+**Enroll Now in Hindi:** [Terraform Multicloud Mastery: Building Across Clouds (Hindi)](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=858D5A476C68A6D89763)
+**Enroll Now in English:** [Terraform Multicloud Mastery: Building Across Clouds (English)](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=858D5A476C68A6D89763)
+
+### HashiCorp Vault Mastery: Essentials of Secrets Management
+**Enroll Now in Hindi:** [HashiCorp Vault Mastery: Essentials of Secrets Management(Hindi)](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=858D5A476C68A6D89763)
+**Enroll Now in English:** [HashiCorp Vault Mastery: Essentials of Secrets Management(English)](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=858D5A476C68A6D89763)
+
 ### HashiCorp Certified: Terraform Associate Practice Exam 2024
 **Enroll Now in English:** [HashiCorp Certified: Terraform Associate Practice Exam 2024](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=858D5A476C68A6D89763)  
 
