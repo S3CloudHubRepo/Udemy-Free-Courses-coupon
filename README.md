@@ -20,7 +20,7 @@ We're here to assist you!
 **Enroll Now in English:** [Terraform Multicloud Mastery: Building Across Clouds (English)](https://www.udemy.com/course/terraform-multicloud-masterclass-building-across-clouds/?referralCode=E1798B59098236E7DFC5)
 
 ### HashiCorp Vault Mastery: Essentials of Secrets Management
-**Enroll Now in Hindi:** [HashiCorp Vault Mastery: Essentials of Secrets Management(Hindi)](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=858D5A476C68A6D89763) 
+**Enroll Now in Hindi:** [HashiCorp Vault Mastery: Essentials of Secrets Management(Hindi)](https://www.udemy.com/course/hashicorp-vault-simplified-secrets-and-security-hindi/?referralCode=8C34D2942E5F2F71E9FE) 
 
 **Enroll Now in English:** [HashiCorp Vault Mastery: Essentials of Secrets Management(English)](https://www.udemy.com/course/hashicorp-vault-mastery-essentials-of-secrets-management/?referralCode=2718B46BC4477106381F)
 
