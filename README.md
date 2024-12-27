@@ -14,8 +14,9 @@ We're here to assist you!
 
 ## Courses
 
-### Terraform Multicloud Mastery: Building Across Clouds
+### https://github.com/S3CloudHubRepo/Udemy-Free-Courses-coupon
 **Enroll Now in English:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-certification-microsoft-azure-fundamental/?couponCode=8FDD340794F431C20848) 
+**Enroll Now in Hindi:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental(Hindi)](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-bootcamp-hindi/?couponCode=723863AC2CAF4725A797) 
 
 ### Terraform Multicloud Mastery: Building Across Clouds
 **Enroll Now in Hindi:** [Terraform Multicloud Mastery: Building Across Clouds (Hindi)](https://www.udemy.com/course/terraform-multicloud-mastery-building-across-clouds-hindi/?couponCode=41817BC429A9B56640EC) 
