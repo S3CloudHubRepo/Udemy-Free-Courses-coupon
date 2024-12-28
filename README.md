@@ -14,7 +14,8 @@ We're here to assist you!
 
 ## Courses
 
-### https://github.com/S3CloudHubRepo/Udemy-Free-Courses-coupon
+### AZ-900 Certification Bootcamp: Microsoft Azure Fundamental
+
 **Enroll Now in English:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-certification-microsoft-azure-fundamental/?couponCode=8FDD340794F431C20848) 
 
 **Enroll Now in Hindi:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental(Hindi)](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-bootcamp-hindi/?couponCode=723863AC2CAF4725A797) 
