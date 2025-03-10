@@ -34,7 +34,7 @@ We're here to assist you!
 **Enroll Now in English:** [HashiCorp Certified: Terraform Associate Practice Exam 2024](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=B0A3C2F177E01CD0FA40)  
 
 ### Linux Essentials to Expert: A Complete Masterclass
-**Enroll Now in English:** [Linux Essentials to Expert: A Complete Masterclass](https://www.udemy.com/course/linux-master-class/?couponCode=62C0BB4229E2BA729F62)  
+**Enroll Now in English:** [Linux Essentials to Expert: A Complete Masterclass](https://www.udemy.com/course/linux-master-class/?couponCode=EAE0DEDEE8778864AD1A)  
 
 ### DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery
 
