@@ -63,7 +63,7 @@ The demand for skilled AWS professionals is skyrocketing as companies transition
 ### Complete Python Bootcamp From Zero to Hero
 Become a proficient Python programmer with one of the most comprehensive courses available! Whether you're starting from scratch or looking to deepen your knowledge, this course is for you.  
 **Claim Your Free Course Now:** [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp-from-zero-to-hero-in-python/?couponCode=84A21AC3FBCFBD4A1CFD)  
-**Enroll Now in Hindi:** [Python Crash Course for Beginners](https://www.udemy.com/course/python-crash-course-for-beginners-zero-to-hero/?couponCode=1F87361E042D0A6D273A)
+**Enroll Now in Hindi:** [Python Crash Course for Beginners](https://www.udemy.com/course/python-crash-course-for-beginners-zero-to-hero/?couponCode=590F46698ED2431ED1E4)
 
 ### Amazon S3 Mastery Bootcamp 2024
 Master AWS Amazon S3, a foundational skill for any AWS professional. This boot camp will set you up for success in mastering essential AWS services.  
