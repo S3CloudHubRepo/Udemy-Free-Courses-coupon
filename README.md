@@ -102,7 +102,7 @@ Learn the essentials of writing effective Linux shell scripts in this engaging m
 
 ### Learn Terraform: Infrastructure Automation (2024)
 Master Terraform and automate your infrastructure effectively with this comprehensive course.  
-**Enroll Now in Hindi:** [Terraform Infrastructure Automation (Hindi)](https://www.udemy.com/course/terraform-infrastructure-as-automation-in-hindi/?couponCode=71904A5AA7728A17F871)  
+**Enroll Now in Hindi:** [Terraform Infrastructure Automation (Hindi)](https://www.udemy.com/course/terraform-infrastructure-as-automation-in-hindi/?couponCode=2AD0F282536C9EB333A9)  
 **Claim Your Free Course Now:** [Infrastructure Automation with Terraform](https://www.udemy.com/course/infrastructure-automation-with-terraform-a-devops-tool/?couponCode=8DB57E3B4C1C515E8EE6)
 
 ### AWS Certified Solutions Architect - Associate Practice Test
