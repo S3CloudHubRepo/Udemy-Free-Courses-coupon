@@ -77,7 +77,7 @@ Learn to leverage GitLab CI for your projects and kickstart your journey into CI
 ### Docker for the Absolute Beginner
 Get started with Docker in this easy-to-follow course designed for beginners, complete with practical exercises.  
 **Claim Your Free Course Now:** [Docker for the Absolute Beginner](https://www.udemy.com/course/docker-for-the-absolute-beginner/?couponCode=28CA319BAC1407B221FC)  
-**Enroll Now in Hindi:** [Docker for the Absolute Beginner (Hindi)](https://www.udemy.com/course/docker-for-the-absolute-beginner-in-hindi/?couponCode=5116B7092E624106991F)
+**Enroll Now in Hindi:** [Docker for the Absolute Beginner (Hindi)](https://www.udemy.com/course/docker-for-the-absolute-beginner-in-hindi/?couponCode=637455A83FBBBF79F216)
 
 ### Ansible for the Absolute Beginner - DevOps
 Master Ansible with hands-on practice in this beginner-friendly course that covers all the fundamentals.  
