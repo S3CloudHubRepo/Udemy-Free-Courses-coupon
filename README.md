@@ -98,7 +98,7 @@ Prepare thoroughly for the AWS Certified Solutions Architect Associate exam and 
 ### Introduction to Linux Shell Scripting
 Learn the essentials of writing effective Linux shell scripts in this engaging mini-course.  
 **Claim Your Free Course Now:** [Introduction to Linux Shell Scripting](https://www.udemy.com/course/introduction-to-linux-shell-scripting/?couponCode=435E94A22377D7EB812A)  
-**Enroll Now in Hindi:** [Introduction to Linux Shell Scripting (Hindi)](https://www.udemy.com/course/terraform-infrastructure-as-automation-in-hindi/?couponCode=71904A5AA7728A17F871)
+**Enroll Now in Hindi:** [Introduction to Linux Shell Scripting (Hindi)](https://www.udemy.com/course/terraform-infrastructure-as-automation-in-hindi/?couponCode=218026386153DAAAA5FF)
 
 ### Learn Terraform: Infrastructure Automation (2024)
 Master Terraform and automate your infrastructure effectively with this comprehensive course.  
