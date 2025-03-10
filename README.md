@@ -41,7 +41,7 @@ We're here to assist you!
 Master the essentials of DevOps, from setting up CI/CD pipelines to automating workflows, and leverage cloud platforms for seamless deployment. This bootcamp equips you with hands-on skills to accelerate your career in DevOps.
 
 **Enroll Now in English:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (English)](https://www.udemy.com/course/devops-boot-camp-mastering-cicd-automation-and-cloud-tec/?couponCode=3C66FE19A5DA00E75FC8)  
-**Enroll Now in Hindi:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (Hindi)](https://www.udemy.com/course/devops-bootcamp-cicd-automation-and-cloud-masteryhindi/?couponCode=F8C780C1D2A0C48151D8)
+**Enroll Now in Hindi:** [DevOps Bootcamp: CI/CD, Automation, and Cloud Mastery (Hindi)](https://www.udemy.com/course/devops-bootcamp-cicd-automation-and-cloud-masteryhindi/?couponCode=04BA89748BCB7DF8AC37)
 
 ### Azure DevOps Fundamentals - Zero to Hero
 Master the fundamentals of Azure DevOps and kickstart your career in DevOps with practical, hands-on projects. This course is designed for beginners, covering everything from setting up CI/CD pipelines to automating deployments with Azure.
