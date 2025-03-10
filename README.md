@@ -72,7 +72,7 @@ Master AWS Amazon S3, a foundational skill for any AWS professional. This boot c
 ### GitLab CI: Pipelines, CI/CD, and DevOps for Beginners
 Learn to leverage GitLab CI for your projects and kickstart your journey into CI/CD and DevOps.  
 **Enroll Now in Hindi:** [GitLab CI for Beginners (Hindi)](https://www.udemy.com/course/gitlab-ci-pipelines-cicd-and-devops-for-beginners-hindi/?couponCode=8300C62E8E1E55951A30)  
-**Claim Your Free Course Now:** [GitLab CI for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-cicd-and-devops-for-beginners/?couponCode=0ED7049B1316EB4B6613)
+**Claim Your Free Course Now:** [GitLab CI for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-cicd-and-devops-for-beginners/?couponCode=93C9AF98C1FC05B82A50)
 
 ### Docker for the Absolute Beginner
 Get started with Docker in this easy-to-follow course designed for beginners, complete with practical exercises.  
