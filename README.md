@@ -107,7 +107,7 @@ Master Terraform and automate your infrastructure effectively with this comprehe
 
 ### AWS Certified Solutions Architect - Associate Practice Test
 Prepare for your AWS certification exam with our comprehensive practice tests designed to simulate the real exam experience.  
-**Claim Your Free Course Now:** [AWS Certified Solutions Architect Practice Test](https://www.udemy.com/course/practice-test-aws-certified-solution-architect-associate-new/?couponCode=207939C812F61E4EBC6F)
+**Claim Your Free Course Now:** [AWS Certified Solutions Architect Practice Test](https://www.udemy.com/course/aws-certified-solution-architect-associate-2019/?couponCode=31FBF0F4C47AA91C58DB)
 
 ## Join Our Community
 Keep learning and growing with us! For more updates and free coupons, follow us on social media and engage with our community!
