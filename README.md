@@ -48,7 +48,7 @@ Master the fundamentals of Azure DevOps and kickstart your career in DevOps with
 
 **Enroll Free Course Now(English):** [Azure DevOps Fundamentals - Zero to Hero (English)](https://www.udemy.com/course/azure-devops-fundamentals-zero-to-hero/?couponCode=4DEF2ECEB420597BD7E0)
 
-**Claim Your Free Course Now(Hindi):**[Azure DevOps Fundamentals - Zero to Hero (Hindi)](https://www.udemy.com/course/azure-devops-fundamentals-in-hindi/?couponCode=024320CF02CA294A85C9)
+**Claim Your Free Course Now(Hindi):**[Azure DevOps Fundamentals - Zero to Hero (Hindi)](https://www.udemy.com/course/azure-devops-fundamentals-in-hindi/?couponCode=D044695F272798FB05C4)
 
 ### Ethical Hacking - Beginner to Advanced
 Learn the essentials of ethical hacking in this comprehensive course. Whether you're a beginner or looking to advance your skills, you'll dive into practical hacking techniques, penetration testing, and security practices to become a proficient ethical hacker.  
