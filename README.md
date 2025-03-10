@@ -53,7 +53,7 @@ Master the fundamentals of Azure DevOps and kickstart your career in DevOps with
 ### Ethical Hacking - Beginner to Advanced
 Learn the essentials of ethical hacking in this comprehensive course. Whether you're a beginner or looking to advance your skills, you'll dive into practical hacking techniques, penetration testing, and security practices to become a proficient ethical hacker.  
 **Enroll Now in English:** [Ethical Hacking - Beginner to Advanced (English)](https://www.udemy.com/course/learn-ethical-hacking-beginner-to-advanced/?couponCode=2BE4BDD6625A7AC52933)  
-**Enroll Now in Hindi:** [Ethical Hacking - Beginner to Advanced (Hindi)](https://www.udemy.com/course/learn-ethical-hacking-beginner-to-advanced-in-hindi/?couponCode=03FFC422BE0503166EBF)
+**Enroll Now in Hindi:** [Ethical Hacking - Beginner to Advanced (Hindi)](https://www.udemy.com/course/learn-ethical-hacking-beginner-to-advanced-in-hindi/?couponCode=FC68F61CABB26D0FC5AE)
 
 ### AWS Certified SysOps Administrator Associate SOA-C02 (2024)
 The demand for skilled AWS professionals is skyrocketing as companies transition to the cloud. Secure your future with the AWS Certified SysOps Administrator Associate certification and earn over $150,000 annually!  
