@@ -21,7 +21,7 @@ We're here to assist you!
 **Enroll Now in Hindi:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental(Hindi)](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-bootcamp-hindi/?couponCode=1D5DC639E2BD6E196DD9) 
 
 ### Terraform Multicloud Mastery: Building Across Clouds
-**Enroll Now in Hindi:** [Terraform Multicloud Mastery: Building Across Clouds (Hindi)](https://www.udemy.com/course/terraform-multicloud-mastery-building-across-clouds-hindi/?couponCode=9650E97F81AA8EE3E177) 
+**Enroll Now in Hindi:** [Terraform Multicloud Mastery: Building Across Clouds (Hindi)](https://www.udemy.com/course/terraform-multicloud-mastery-building-across-clouds-hindi/?couponCode=5E142E906E28B534982A) 
 
 **Enroll Now in English:** [Terraform Multicloud Mastery: Building Across Clouds (English)](https://www.udemy.com/course/terraform-multicloud-masterclass-building-across-clouds/?couponCode=92DB774E3F75E9832C16)
 
