@@ -15,7 +15,7 @@ We're here to assist you!
 ## Courses
 ### AZ-900 Certification Practice Test: Microsoft Azure Fundamental
 
-**Enroll Now :** [AZ-900 Certification Practice Test: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-prep-ultimate-guide/?couponCode=660E3117D036AF415417) 
+**Enroll Now :** [AZ-900 Certification Practice Test: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-prep-ultimate-guide/?couponCode=26D9A97E101612BE046F) 
 
 ### AZ-900 Certification Bootcamp: Microsoft Azure Fundamental
 
