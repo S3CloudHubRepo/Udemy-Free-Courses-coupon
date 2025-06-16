@@ -31,7 +31,7 @@ We're here to assist you!
 ### HashiCorp Vault Mastery: Essentials of Secrets Management
 **Enroll Now in Hindi:** [HashiCorp Vault Mastery: Essentials of Secrets Management(Hindi)](https://www.udemy.com/course/hashicorp-vault-simplified-secrets-and-security-hindi/?couponCode=FDF141F68D996F4D7761) 
 
-**Enroll Now in English:** [HashiCorp Vault Mastery: Essentials of Secrets Management(English)](https://www.udemy.com/course/hashicorp-vault-mastery-essentials-of-secrets-management/?couponCode=401F6B2D13F185478A74)
+**Enroll Now in English:** [HashiCorp Vault Mastery: Essentials of Secrets Management(English)](https://www.udemy.com/course/hashicorp-vault-mastery-essentials-of-secrets-management/?couponCode=A478EAC55AF7E0C7D4C0)
 
 ### HashiCorp Certified: Terraform Associate Practice Exam 2024
 **Enroll Now in English:** [HashiCorp Certified: Terraform Associate Practice Exam 2024](https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exam-test/?couponCode=B0A3C2F177E01CD0FA40)  
