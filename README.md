@@ -19,7 +19,7 @@ We're here to assist you!
 
 ### AZ-900 Certification Bootcamp: Microsoft Azure Fundamental
 
-**Enroll Now in English:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-certification-microsoft-azure-fundamental/?couponCode=A505EF6DB054406F10E8) 
+**Enroll Now in English:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-certification-microsoft-azure-fundamental/?couponCode=A61918512A49F98E5707) 
 
 **Enroll Now in Hindi:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental(Hindi)](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-bootcamp-hindi/?couponCode=6F7CE671C4B82C77273C) 
 
