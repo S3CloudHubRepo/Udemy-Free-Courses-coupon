@@ -84,7 +84,7 @@ Get started with Docker in this easy-to-follow course designed for beginners, co
 
 ### Ansible for the Absolute Beginner - DevOps
 Master Ansible with hands-on practice in this beginner-friendly course that covers all the fundamentals.  
-**Enroll Now in Hindi:** [Ansible for the Absolute Beginner (Hindi)](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops-in-hindi/?couponCode=78940CAE562A8B0D3485)  
+**Enroll Now in Hindi:** [Ansible for the Absolute Beginner (Hindi)](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops-in-hindi/?couponCode=DE90E1DCAB4B5755DA20)  
 **Claim Your Free Course Now:** [Ansible for the Absolute Beginner](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops/?couponCode=61600CA215A1C346E98E)
 
 ### DevOps: CI/CD with Jenkins
