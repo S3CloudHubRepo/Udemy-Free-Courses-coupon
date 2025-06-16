@@ -89,7 +89,7 @@ Master Ansible with hands-on practice in this beginner-friendly course that cove
 
 ### DevOps: CI/CD with Jenkins
 Learn to build sophisticated CI/CD pipelines using Jenkins, perfect for both newcomers and experienced developers.  
-**Enroll Now in Hindi:** [DevOps CI/CD with Jenkins (Hindi)](https://www.udemy.com/course/jenkins-in-hindi/?couponCode=1559BFDD0D67BE575D5C)  
+**Enroll Now in Hindi:** [DevOps CI/CD with Jenkins (Hindi)](https://www.udemy.com/course/jenkins-in-hindi/?couponCode=17AE3587E7EF5A861BA2)  
 
 **Claim Your Free Course Now:** [DevOps CI/CD with Jenkins](https://www.udemy.com/course/devops-cicd-with-jenkins/?couponCode=6A530A7F3084E27B0E61)
 
