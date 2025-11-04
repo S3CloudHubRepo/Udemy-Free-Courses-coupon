@@ -13,6 +13,11 @@ Join our WhatsApp community for the latest updates and engaging discussions: **[
 We're here to assist you!
 
 ## Courses
+### Complete N8N and AI Automation Masterclass
+
+**Enroll Now :** [Complete N8N and AI Automation Masterclass](https://www.udemy.com/course/complete-n8n-and-ai-automation-masterclass/?referralCode=9B6FEB46CFA1184AA925) 
+
+
 ### AZ-900 Certification Practice Test: Microsoft Azure Fundamental
 
 **Enroll Now :** [AZ-900 Certification Practice Test: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-prep-ultimate-guide/?couponCode=26D9A97E101612BE046F) 
