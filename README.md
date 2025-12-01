@@ -15,18 +15,18 @@ We're here to assist you!
 ## Courses
 ### Complete N8N and AI Automation Masterclass
 
-**Enroll Now :** [Complete N8N and AI Automation Masterclass](https://www.udemy.com/course/complete-n8n-and-ai-automation-masterclass/?referralCode=9B6FEB46CFA1184AA925) 
+**Enroll Now :** [Complete N8N and AI Automation Masterclass](https://www.udemy.com/course/complete-n8n-and-ai-automation-masterclass/?couponCode=A5C8260847CC5B4E0E64) 
 
 
 ### AZ-900 Certification Practice Test: Microsoft Azure Fundamental
 
-**Enroll Now :** [AZ-900 Certification Practice Test: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-prep-ultimate-guide/?couponCode=26D9A97E101612BE046F) 
+**Enroll Now :** [AZ-900 Certification Practice Test: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-prep-ultimate-guide/?couponCode=69AE5FD81DFC4FCE9DCE) 
 
 ### AZ-900 Certification Bootcamp: Microsoft Azure Fundamental
 
-**Enroll Now in English:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-certification-microsoft-azure-fundamental/?couponCode=A61918512A49F98E5707) 
+**Enroll Now in English:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental](https://www.udemy.com/course/az-900-certification-microsoft-azure-fundamental/?couponCode=06C601B0BC361EFCED54) 
 
-**Enroll Now in Hindi:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental(Hindi)](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-bootcamp-hindi/?couponCode=6F7CE671C4B82C77273C) 
+**Enroll Now in Hindi:** [AZ-900 Certification Bootcamp: Microsoft Azure Fundamental(Hindi)](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-bootcamp-hindi/?couponCode=5A34E1851CEE11AE2F34) 
 
 ### Terraform Multicloud Mastery: Building Across Clouds
 **Enroll Now in Hindi:** [Terraform Multicloud Mastery: Building Across Clouds (Hindi)](https://www.udemy.com/course/terraform-multicloud-mastery-building-across-clouds-hindi/?couponCode=F89818381C95713E1064) 
